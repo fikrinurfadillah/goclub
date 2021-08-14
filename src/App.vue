@@ -2,7 +2,7 @@
   <nav class="navbar navbar-expand-lg navbar-dark bg-white static-top">
   <div class="container">
     <a class="navbar-brand" href="#">
-      <img src="https://rec-data.kalibrr.com/www.kalibrr.com/logos/T65KJRY8ZHA62VRLK76JZU8S72R79J2LDJ7MYJ6P-5d356a15.png" alt="..." >
+      <img src="https://lelogama.go-jek.com/service_icon_text/gojek-logo_normal.svg" alt="..." >
     </a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
@@ -75,20 +75,22 @@
 
 .navbar {
   font-family: 'Maison Neue', sans-serif;
-  font-weight: 700;  
-  font-size: 1.125rem;                                             
+  font-weight: 500;                                               
+}
+.nav-item {
+  margin-right: 20px;
 }
 .navbar-brand img{
-  height: 60px;
-  width: 180px;
+  height: 28px;
+  width: 120px;
 }
-#app {
+/* #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-}
+} */
 
 #nav {
   padding: 30px;
